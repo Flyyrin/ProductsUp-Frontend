@@ -1,6 +1,6 @@
 # HOW TO USE
 # cd ProductsUp-React
-# docker build . -t "procar-react-v1.0"
+# docker build . -t "productsup-react-v1.0"
 # Run in Docker Desktop (3000:3000)
 
 FROM node:18-alpine
