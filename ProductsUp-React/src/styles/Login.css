@@ -1,0 +1,36 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.login-page-content {
+  height: 80% !important;
+}
+
+#root {
+  background-color: #fff !important;
+}
+
+.login-content {
+  background-image: url("../assets/loginBg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.password-toggler {
+  color: #9d00d1;
+}
+
+.password-toggler:hover {
+  text-decoration: underline;
+}
+
+.nav-tabs .nav-link:hover {
+  color: black !important;
+}
+
+.is-invalid {
+  background-image: none !important;
+}

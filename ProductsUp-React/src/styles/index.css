@@ -1,0 +1,68 @@
+#root {
+  background-color: #e9ecef;
+}
+
+.btn:focus,
+.btn:active,
+input:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.btn {
+  background-color: #700097;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #9d00d1;
+  color: #fff;
+}
+
+.btn-outline {
+  background-color: transparent;
+  color: #700097;
+  border: 1px solid #700097;
+  text-decoration: none;
+}
+
+.btn-outline:hover {
+  background-color: #e9ecef;
+  color: #700097;
+}
+
+input:focus {
+  border-color: #700097 !important;
+}
+
+.input-group {
+  display: flex;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out;
+}
+
+.input-group.is-invalid {
+  border-color: #dc3545;
+}
+
+.input-group:focus-within {
+  border-color: #700097;
+}
+
+.link-footer {
+  color: #700097;
+  text-decoration: none;
+}
+
+.list-group-item:hover {
+  background-color: #f0ecff;
+}
+
+.list-group-item .dropdown-menu .dropdown-item.active,
+.list-group-item .dropdown-menu .dropdown-item:hover {
+  border-top: 4px solid transparent;
+  border-bottom: 4px solid transparent;
+  color: #000000 !important;
+  background-color: #f0ecff;
+}
