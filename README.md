@@ -2,7 +2,7 @@
 :link: See preview: [Preview](#camera-preview)
 
 ## :brain: Project Description
-The exel editor allows for easy managing of products in a webinterface that can be exported to exel files used to apply products to online retailers.
+This exel editor allows for easy managing of products in a webinterface that can be exported to exel files used to apply products to online retailers.
 
 ## :books: Functies
 - Users can add, remove and modify products
