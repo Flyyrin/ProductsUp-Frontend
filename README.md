@@ -1,4 +1,4 @@
-# Excel Editor For [ProductsUp](#About-This-Project)
+# Excel Editor For [ProductsUp](#star2-about-this-project)
 :link: See preview: [Preview](#camera-preview)
 
 ## :brain: Project Description
