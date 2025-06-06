@@ -4,13 +4,13 @@
 ## :brain: Project Description
 This exel editor allows for easy managing of products in a webinterface that can be exported to exel files used to apply products to online retailers.
 
-## :books: Functies
+## :books: Features
 - Users can add, remove and modify products
 - Users can add product attributes
 - Users can set the primary identifier product index
 - Users can export the products to an excel ready to send to the retailer
 
-## :gear: Technieken & Tools
+## :gear: Techniques & Tools
 - **React** as frontend framework
 - **.NET** is used for the backend
 - **Bootstrap** to style the interface
